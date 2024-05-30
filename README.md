@@ -1,0 +1,3 @@
+This repository has most of the work involved in creating my final capstone project. It was QUITE a journey and real shaped my skill set in an incredible way. I learned a lot about project management and pushed myself beyond my comfort zone. I appreciate the opportunity to do this kind of work, I don't think most coding programs would take a chance on someone like me like CT did.
+Here's the link to my official capstone repository: https://github.com/francheese9289/datacollectiontool.git
+And here's the link to my deployed web app: https://assessmentanalytics.onrender.com/ (dummy user & pw: jryan@simpleschooldistrict.org Maple!)
